@@ -1,165 +1,165 @@
 Rank,City,CountryCounty,Country,Cost of Living Plus Rent Index,Groceries Index,Restaurant Price Index,Local Purchasing Power Index,Cost of Living Index,Rent Index
-,Hamilton, Bermuda,Rest of World,128.76,143.47,158.75,112.26,145.43,110.87
-,Zurich, Switzerland,Rest of World,105.03,149.86,135.76,142.7,141.25,66.14
-,Geneva, Switzerland,Rest of World,104.38,138.98,129.74,130.96,134.83,71.7
-,Basel, Switzerland,Rest of World,91.61,127.54,127.22,139.01,130.68,49.68
-,Bern, Switzerland,Rest of World,87.3,132.7,119.48,112.71,128.03,43.57
-,Lausanne, Switzerland,Rest of World,91.24,126.59,132.12,127.95,127.5,52.32
-,Reykjavik, Iceland,Rest of World,91.7,118.15,133.19,88.95,123.78,57.25
-,Stavanger, Norway,Rest of World,80.61,106.09,143.54,118.14,118.61,39.83
-,Lugano, Switzerland,Rest of World,86.73,117.74,122.3,119.86,118.24,52.91
-,Oslo, Norway,Rest of World,84.46,112.42,124.09,102.94,117.23,49.28
-,Trondheim, Norway,Rest of World,79.58,103.5,134.76,108.29,114.22,42.39
-,Bergen, Norway,Rest of World,77.58,101.79,119.61,99.29,112.31,40.3
-,Kyoto, Japan,Rest of World,63.8,118.44,54.59,77.92,100.33,24.58
+,Hamilton, Bermuda, United States,128.76,143.47,158.75,112.26,145.43,110.87
+,Zurich, Switzerland, United States,105.03,149.86,135.76,142.7,141.25,66.14
+,Geneva, Switzerland, United States,104.38,138.98,129.74,130.96,134.83,71.7
+,Basel, Switzerland, United States,91.61,127.54,127.22,139.01,130.68,49.68
+,Bern, Switzerland, United States,87.3,132.7,119.48,112.71,128.03,43.57
+,Lausanne, Switzerland, United States,91.24,126.59,132.12,127.95,127.5,52.32
+,Reykjavik, Iceland, United States,91.7,118.15,133.19,88.95,123.78,57.25
+,Stavanger, Norway, United States,80.61,106.09,143.54,118.14,118.61,39.83
+,Lugano, Switzerland, United States,86.73,117.74,122.3,119.86,118.24,52.91
+,Oslo, Norway, United States,84.46,112.42,124.09,102.94,117.23,49.28
+,Trondheim, Norway, United States,79.58,103.5,134.76,108.29,114.22,42.39
+,Bergen, Norway, United States,77.58,101.79,119.61,99.29,112.31,40.3
+,Kyoto, Japan, United States,63.8,118.44,54.59,77.92,100.33,24.58
 ,New York, NY, United States,100,100,100,100,100,100
-,Nassau, Bahamas,Rest of World,71.14,85.34,104.17,58.69,99.73,40.45
+,Nassau, Bahamas, United States,71.14,85.34,104.17,58.69,99.73,40.45
 ,San Francisco, CA, United States,106.29,107.52,91.06,92.96,97.84,115.36
-,Copenhagen, Denmark,Rest of World,74.97,77.53,121.23,113.31,97.62,50.66
-,Luxembourg, Luxembourg,Rest of World,79.08,82.71,109.61,127.42,95.37,61.59
+,Copenhagen, Denmark, United States,74.97,77.53,121.23,113.31,97.62,50.66
+,Luxembourg, Luxembourg, United States,79.08,82.71,109.61,127.42,95.37,61.59
 ,Anchorage, AK, United States,68.53,101.18,84.55,124.92,94.99,40.12
 ,Honolulu, HI, United States,79.04,104.69,82.86,103.08,94.15,62.82
-,Tokyo, Japan,Rest of World,66.45,99.67,58.93,106.42,93.81,37.07
+,Tokyo, Japan, United States,66.45,99.67,58.93,106.42,93.81,37.07
 ,Brooklyn, NY, United States,85.33,92.73,100.58,87.04,93.79,76.24
-,Paris, France,Rest of World,72.34,87.29,91.77,97.62,92.87,50.3
-,Limerick, Ireland,Rest of World,61.37,87.15,82.93,93.93,92.73,27.71
+,Paris, France, United States,72.34,87.29,91.77,97.62,92.87,50.3
+,Limerick, Ireland, United States,61.37,87.15,82.93,93.93,92.73,27.71
 ,Rockville, MD, United States,78.84,87.76,74.74,130.79,92.66,64
 ,Bloomington, IN, United States,63.93,112.83,75.43,96.92,92.14,33.64
 ,Washington, DC, United States,82.95,92.74,85,120.62,91.94,73.3
-,Arhus, Denmark,Rest of World,64.37,71.5,102.82,109.47,91.9,34.82
-,Singapore, Singapore,Rest of World,81.99,83.64,64.4,95.89,91.4,71.89
-,Aalborg, Denmark,Rest of World,60.13,73.79,101.14,106.35,91.17,26.81
-,Stockholm, Sweden,Rest of World,68.87,84.06,93.71,108.2,90.85,45.27
-,Sydney, Australia,Rest of World,80,85.02,77.09,118.81,90.77,68.43
-,Montpellier, France,Rest of World,58.95,86.93,75.13,74.25,90.63,24.95
-,Tel Aviv-Yafo, Israel,Rest of World,71.65,76.9,97.21,101.36,90.36,51.55
+,Arhus, Denmark, United States,64.37,71.5,102.82,109.47,91.9,34.82
+,Singapore, Singapore, United States,81.99,83.64,64.4,95.89,91.4,71.89
+,Aalborg, Denmark, United States,60.13,73.79,101.14,106.35,91.17,26.81
+,Stockholm, Sweden, United States,68.87,84.06,93.71,108.2,90.85,45.27
+,Sydney, Australia, United States,80,85.02,77.09,118.81,90.77,68.43
+,Montpellier, France, United States,58.95,86.93,75.13,74.25,90.63,24.95
+,Tel Aviv-Yafo, Israel, United States,71.65,76.9,97.21,101.36,90.36,51.55
 ,Santa Rosa, CA, United States,74.75,92.05,78.34,106.77,90.23,58.13
-,Dublin, Ireland,Rest of World,76.52,73.62,95.64,88.11,89.92,62.13
-,Jerusalem, Israel,Rest of World,64.93,74.2,96.35,84.17,89.62,38.43
-,Linz, Austria,Rest of World,60.44,84.03,88.05,95.13,89.33,29.43
+,Dublin, Ireland, United States,76.52,73.62,95.64,88.11,89.92,62.13
+,Jerusalem, Israel, United States,64.93,74.2,96.35,84.17,89.62,38.43
+,Linz, Austria, United States,60.44,84.03,88.05,95.13,89.33,29.43
 ,Arlington, VA, United States,76.01,88.51,82.63,120.53,89.2,61.85
-,Amsterdam, Netherlands,Rest of World,74.23,70.13,95.2,101.7,89.14,58.22
+,Amsterdam, Netherlands, United States,74.23,70.13,95.2,101.7,89.14,58.22
 ,Bellevue, WA, United States,78.15,88.43,80.99,73.46,88.85,66.67
-,London, United Kingdom,Rest of World,82.89,67.36,96.36,92.61,88.69,76.67
-,Antwerp, Belgium,Rest of World,59.19,79.12,101.67,90.18,88.2,28.06
-,Hamilton, New Zealand,Rest of World,58.62,81.69,84.97,128.21,88.09,26.98
+,London, United Kingdom, United States,82.89,67.36,96.36,92.61,88.69,76.67
+,Antwerp, Belgium, United States,59.19,79.12,101.67,90.18,88.2,28.06
+,Hamilton, New Zealand, United States,58.62,81.69,84.97,128.21,88.09,26.98
 ,Seattle, WA, United States,76.64,89.85,83.22,144.6,88.04,64.41
 ,Berkeley, CA, United States,83.42,97.88,78.29,115.84,87.82,78.69
-,Helsinki, Finland,Rest of World,64.98,73.82,96.5,113.87,87.77,40.52
-,Grenoble, France,Rest of World,57.51,88.71,79.04,115.7,87.73,25.07
-,Seoul, South Korea,Rest of World,63.26,107.06,50.88,107.52,87.56,37.17
-,Tampere, Finland,Rest of World,59.08,73.89,96.76,111.28,87.2,28.89
+,Helsinki, Finland, United States,64.98,73.82,96.5,113.87,87.77,40.52
+,Grenoble, France, United States,57.51,88.71,79.04,115.7,87.73,25.07
+,Seoul, South Korea, United States,63.26,107.06,50.88,107.52,87.56,37.17
+,Tampere, Finland, United States,59.08,73.89,96.76,111.28,87.2,28.89
 ,Boston, MA, United States,83.03,88.99,86.2,101.35,87.05,78.72
-,Auckland, New Zealand,Rest of World,67.65,79.21,72.26,99.37,86.93,46.95
-,Florence, Italy,Rest of World,60.34,76.28,87.67,66.09,86.9,31.81
-,Nice, France,Rest of World,60.14,78.82,98.75,107.04,86.69,31.64
-,Milton Keynes, United Kingdom,Rest of World,62.68,85.31,81.71,90.17,86.28,37.34
-,Perth, Australia,Rest of World,64.18,80.79,90.63,130.38,86.24,40.5
+,Auckland, New Zealand, United States,67.65,79.21,72.26,99.37,86.93,46.95
+,Florence, Italy, United States,60.34,76.28,87.67,66.09,86.9,31.81
+,Nice, France, United States,60.14,78.82,98.75,107.04,86.69,31.64
+,Milton Keynes, United Kingdom, United States,62.68,85.31,81.71,90.17,86.28,37.34
+,Perth, Australia, United States,64.18,80.79,90.63,130.38,86.24,40.5
 ,Charleston, SC, United States,66.8,98.41,71.87,115.41,86.19,45.99
-,Adelaide, Australia,Rest of World,62.17,82.05,81.67,113.86,86.02,36.56
+,Adelaide, Australia, United States,62.17,82.05,81.67,113.86,86.02,36.56
 ,Miami, FL, United States,75.01,87.37,95.81,97.81,86.01,63.2
-,Bath, United Kingdom,Rest of World,62.56,78.47,83.51,117.98,85.79,37.62
-,Reading, United Kingdom,Rest of World,64.03,71.32,95.36,130.18,85.56,40.91
-,Leuven, Belgium,Rest of World,58.38,79.81,86.88,92.44,85.31,29.48
-,Gent, Belgium,Rest of World,57.07,72.2,94.01,96.27,85.16,26.92
-,Melbourne, Australia,Rest of World,65.7,82.11,77.29,127.15,85.15,44.81
+,Bath, United Kingdom, United States,62.56,78.47,83.51,117.98,85.79,37.62
+,Reading, United Kingdom, United States,64.03,71.32,95.36,130.18,85.56,40.91
+,Leuven, Belgium, United States,58.38,79.81,86.88,92.44,85.31,29.48
+,Gent, Belgium, United States,57.07,72.2,94.01,96.27,85.16,26.92
+,Melbourne, Australia, United States,65.7,82.11,77.29,127.15,85.15,44.81
 ,Oakland, CA, United States,82.44,88.65,81.38,97.94,85.11,79.57
-,Milan, Italy,Rest of World,65.11,75.56,92.27,71.94,85.1,43.65
-,Genoa, Italy,Rest of World,54.39,74.03,83.87,71.66,85.04,21.49
-,Darwin, Australia,Rest of World,66.43,82.29,91.79,118.09,84.98,46.52
-,Cairns, Australia,Rest of World,58.75,84.5,74.96,118.05,84.98,30.59
-,The Hague (Den Haag), Netherlands,Rest of World,61.14,70.25,89.11,106.25,84.97,35.55
-,Munich, Germany,Rest of World,66.3,72.97,82.46,118.19,84.78,46.46
-,Lyon, France,Rest of World,57.26,77.74,79.13,101.17,84.47,28.04
-,Gothenburg, Sweden,Rest of World,58.38,77.45,91.06,112.1,84.38,30.46
+,Milan, Italy, United States,65.11,75.56,92.27,71.94,85.1,43.65
+,Genoa, Italy, United States,54.39,74.03,83.87,71.66,85.04,21.49
+,Darwin, Australia, United States,66.43,82.29,91.79,118.09,84.98,46.52
+,Cairns, Australia, United States,58.75,84.5,74.96,118.05,84.98,30.59
+,The Hague (Den Haag), Netherlands, United States,61.14,70.25,89.11,106.25,84.97,35.55
+,Munich, Germany, United States,66.3,72.97,82.46,118.19,84.78,46.46
+,Lyon, France, United States,57.26,77.74,79.13,101.17,84.47,28.04
+,Gothenburg, Sweden, United States,58.38,77.45,91.06,112.1,84.38,30.46
 ,New Haven, CT, United States,66.48,92.86,86.18,127.41,84.13,47.53
 ,Irvine, CA, United States,75.3,89.49,76.5,139.48,83.73,66.26
-,Brussels, Belgium,Rest of World,60.55,72.55,96.1,104.35,83.65,35.76
+,Brussels, Belgium, United States,60.55,72.55,96.1,104.35,83.65,35.76
 ,Philadelphia, PA, United States,66.4,82.24,79.37,116.06,83.46,48.09
-,Utrecht, Netherlands,Rest of World,62.55,68.39,97.89,105.9,83.34,40.23
-,Aberdeen, United Kingdom,Rest of World,58.56,67.23,99.29,115.94,83.18,32.13
-,Cambridge, United Kingdom,Rest of World,65.78,67.22,95.67,105.39,82.96,47.33
-,Cork, Ireland,Rest of World,62.19,67.32,91.87,105.57,82.89,39.97
-,Hobart, Australia,Rest of World,58.08,81.1,88.26,99.4,82.88,31.46
+,Utrecht, Netherlands, United States,62.55,68.39,97.89,105.9,83.34,40.23
+,Aberdeen, United Kingdom, United States,58.56,67.23,99.29,115.94,83.18,32.13
+,Cambridge, United Kingdom, United States,65.78,67.22,95.67,105.39,82.96,47.33
+,Cork, Ireland, United States,62.19,67.32,91.87,105.57,82.89,39.97
+,Hobart, Australia, United States,58.08,81.1,88.26,99.4,82.88,31.46
 ,San Jose, CA, United States,82.36,85.4,83.12,134.82,82.87,81.81
-,Toulouse, France,Rest of World,54.94,77.86,82.38,113.77,82.85,24.97
-,Ramat Gan, Israel,Rest of World,60.7,67.32,89.36,112.25,82.84,36.93
-,Rotterdam, Netherlands,Rest of World,59.8,63.02,94.81,102.03,82.64,35.28
+,Toulouse, France, United States,54.94,77.86,82.38,113.77,82.85,24.97
+,Ramat Gan, Israel, United States,60.7,67.32,89.36,112.25,82.84,36.93
+,Rotterdam, Netherlands, United States,59.8,63.02,94.81,102.03,82.64,35.28
 ,Tacoma, WA, United States,60.49,88.02,72.46,125.1,82.54,36.82
-,Dusseldorf, Germany,Rest of World,60.23,65.69,74.97,114.5,82.48,36.34
+,Dusseldorf, Germany, United States,60.23,65.69,74.97,114.5,82.48,36.34
 ,Los Angeles, CA, United States,75.77,82.73,82.48,109.01,82.3,68.75
 ,Boulder, CO, United States,68.5,86.22,74.92,143.02,82.19,53.8
-,St. John's, NL,Rest of World,53.39,86.39,79.73,98.06,82.18,22.48
-,Turku, Finland,Rest of World,54.87,69.79,88.89,125.14,82.18,25.55
-,Brisbane, Australia,Rest of World,63.43,75.42,81.39,130.41,82.17,43.31
-,Halifax, Canada,Rest of World,56.61,88.57,75.91,95.7,82.03,29.33
-,Thunder Bay, Canada,Rest of World,55.08,77.76,74.63,84.87,81.98,26.2
-,Haifa, Israel,Rest of World,52.33,66.6,91.38,120.61,81.81,20.68
-,Padova, Italy,Rest of World,53.85,67.49,78.91,77.42,81.77,23.89
-,Frankfurt, Germany,Rest of World,60.4,66.85,81.18,142.76,81.65,37.59
+,St. John's, NL, United States,53.39,86.39,79.73,98.06,82.18,22.48
+,Turku, Finland, United States,54.87,69.79,88.89,125.14,82.18,25.55
+,Brisbane, Australia, United States,63.43,75.42,81.39,130.41,82.17,43.31
+,Halifax, Canada, United States,56.61,88.57,75.91,95.7,82.03,29.33
+,Thunder Bay, Canada, United States,55.08,77.76,74.63,84.87,81.98,26.2
+,Haifa, Israel, United States,52.33,66.6,91.38,120.61,81.81,20.68
+,Padova, Italy, United States,53.85,67.49,78.91,77.42,81.77,23.89
+,Frankfurt, Germany, United States,60.4,66.85,81.18,142.76,81.65,37.59
 ,Portland, ME, United States,61.89,86.96,88.58,113.69,81.6,40.73
 ,Minneapolis, MN, United States,64.19,87.48,75.88,131.08,81.46,45.65
 ,Norfolk, VA, United States,63.14,90.06,81.31,64.42,81.36,43.59
-,Saskatoon, Canada,Rest of World,56.27,82.39,72.78,99.63,81.02,29.7
-,Canberra, Australia,Rest of World,63.6,77.06,79.23,139.38,80.9,45.03
-,Wellington, New Zealand,Rest of World,61.36,77.17,72.02,118.59,80.87,40.42
+,Saskatoon, Canada, United States,56.27,82.39,72.78,99.63,81.02,29.7
+,Canberra, Australia, United States,63.6,77.06,79.23,139.38,80.9,45.03
+,Wellington, New Zealand, United States,61.36,77.17,72.02,118.59,80.87,40.42
 ,Hartford, CT, United States,62.19,78.41,86.26,101.57,80.86,42.15
 ,Queens, NY, United States,73.04,74.39,87.27,113.4,80.77,64.73
-,Hamburg, Germany,Rest of World,58.02,64.85,77.19,116.06,80.75,33.61
-,Parma, Italy,Rest of World,53.85,71.96,87.4,84.79,80.69,25.04
-,Maastricht, Netherlands,Rest of World,57.86,70.13,81.68,105.35,80.69,33.35
-,Graz, Austria,Rest of World,53.75,78.18,65.21,106.41,80.59,24.94
-,Christchurch, New Zealand,Rest of World,56.21,75.7,78.95,90.4,80.51,30.13
-,Galway, Ireland,Rest of World,58.21,70.9,81.75,100.11,80.22,34.58
+,Hamburg, Germany, United States,58.02,64.85,77.19,116.06,80.75,33.61
+,Parma, Italy, United States,53.85,71.96,87.4,84.79,80.69,25.04
+,Maastricht, Netherlands, United States,57.86,70.13,81.68,105.35,80.69,33.35
+,Graz, Austria, United States,53.75,78.18,65.21,106.41,80.59,24.94
+,Christchurch, New Zealand, United States,56.21,75.7,78.95,90.4,80.51,30.13
+,Galway, Ireland, United States,58.21,70.9,81.75,100.11,80.22,34.58
 ,Albany, NY, United States,56.38,83.35,71.86,139.34,80.19,30.82
 ,Chicago, IL, United States,68.85,79.14,77.99,119.17,80.16,56.71
-,Portsmouth, United Kingdom,Rest of World,56.99,62.19,89.21,94.57,80.05,32.23
+,Portsmouth, United Kingdom, United States,56.99,62.19,89.21,94.57,80.05,32.23
 ,Jersey City, NJ, United States,73.2,79.5,85.95,130.99,79.91,66
-,Malmo, Sweden,Rest of World,55.09,73.61,87.62,120.92,79.79,28.57
-,Uppsala, Sweden,Rest of World,54.97,70.45,87.61,119.75,79.7,28.42
-,Lund, Sweden,Rest of World,54.16,75.3,80.06,122.8,79.39,27.07
-,Oxford, United Kingdom,Rest of World,66.79,62.18,81.92,86.68,79.37,53.29
+,Malmo, Sweden, United States,55.09,73.61,87.62,120.92,79.79,28.57
+,Uppsala, Sweden, United States,54.97,70.45,87.61,119.75,79.7,28.42
+,Lund, Sweden, United States,54.16,75.3,80.06,122.8,79.39,27.07
+,Oxford, United Kingdom, United States,66.79,62.18,81.92,86.68,79.37,53.29
 ,Olympia, WA, United States,58.42,77.18,78.7,125.04,79.25,36.06
-,Edinburgh, United Kingdom,Rest of World,57.69,69.3,89.29,104.25,79.2,34.6
-,Barrie, Canada,Rest of World,54.51,79.85,76.95,127.57,79.18,28.03
+,Edinburgh, United Kingdom, United States,57.69,69.3,89.29,104.25,79.2,34.6
+,Barrie, Canada, United States,54.51,79.85,76.95,127.57,79.18,28.03
 ,Santa Barbara, CA, United States,75.45,76.47,87.43,134.38,79.17,71.45
-,Bologna, Italy,Rest of World,53.5,70.14,85.23,76.44,79.04,26.08
+,Bologna, Italy, United States,53.5,70.14,85.23,76.44,79.04,26.08
 ,Eugene, OR, United States,56,91.86,69.07,109.06,78.94,31.38
-,Sliema, Malta,Rest of World,58.32,69.3,89.2,74.89,78.94,36.17
+,Sliema, Malta, United States,58.32,69.3,89.2,74.89,78.94,36.17
 ,Burlington, VT, United States,61.05,82.04,79.41,101.19,78.89,41.89
-,Rome, Italy,Rest of World,60.2,68.34,85.32,72.78,78.8,40.24
+,Rome, Italy, United States,60.2,68.34,85.32,72.78,78.8,40.24
 ,Sacramento, CA, United States,61.67,80.02,74.2,135.14,78.75,43.34
-,Eindhoven, Netherlands,Rest of World,57.73,63.05,88.51,119.87,78.72,35.2
-,Hong Kong, Hong Kong,Rest of World,79.12,83.47,56.17,82.86,78.72,79.54
-,Pittsburgh, PA, United States,59.54,76.56,70.89,133.38,78.66,39.02
+,Eindhoven, Netherlands, United States,57.73,63.05,88.51,119.87,78.72,35.2
+,Hong Kong, Hong Kong, United States,79.12,83.47,56.17,82.86,78.72,79.54
+,Pittsburgh, PA,Rest of World,59.54,76.56,70.89,133.38,78.66,39.02
 ,Vienna, Austria,Rest of World,57.61,73.8,73.39,98.88,78.64,35.04
 ,Osaka, Japan,Rest of World,52.16,79.2,45.06,109.62,78.5,23.88
-,Portland, OR, United States,65.56,79.56,68.4,125.57,78.45,51.72
-,Saint Paul, MN, United States,60.05,81.15,74.68,97.64,78.37,40.38
+,Portland, OR,Rest of World,65.56,79.56,68.4,125.57,78.45,51.72
+,Saint Paul, MN,Rest of World,60.05,81.15,74.68,97.64,78.37,40.38
 ,Lille, France,Rest of World,52.47,65.77,74.43,89.56,78.34,24.7
-,Long Beach, CA, United States,67.01,82.77,76.98,127.25,78.23,54.98
+,Long Beach, CA,Rest of World,67.01,82.77,76.98,127.25,78.23,54.98
 ,York, United Kingdom,Rest of World,54.69,68.51,85.11,110.55,77.98,29.69
 ,Trieste, Italy,Rest of World,50.76,72.67,80.97,90.05,77.97,21.54
 ,Brampton, Canada,Rest of World,54.32,83.61,64.25,103.74,77.9,29.01
 ,Bristol, United Kingdom,Rest of World,59.59,63.13,92.62,108.18,77.83,40.01
 ,Bergamo, Italy,Rest of World,50.87,64.43,91.76,89.37,77.71,22.05
-,Fort Lauderdale, FL, United States,65.11,79.05,77.85,104.35,77.67,51.63
-,Everett, WA, United States,60.68,84.84,70.29,113.75,77.63,42.48
-,Asheville, NC, United States,58.31,84.94,72.18,111.73,77.36,37.85
-,Denver, CO, United States,66.07,77.48,79.43,130.1,77.31,54
+,Fort Lauderdale, FL,Rest of World,65.11,79.05,77.85,104.35,77.67,51.63
+,Everett, WA,Rest of World,60.68,84.84,70.29,113.75,77.63,42.48
+,Asheville, NC,Rest of World,58.31,84.94,72.18,111.73,77.36,37.85
+,Denver, CO,Rest of World,66.07,77.48,79.43,130.1,77.31,54
 ,Heidelberg, Germany,Rest of World,57.96,61.01,75.28,133.23,77.3,37.21
 ,Manchester, United Kingdom,Rest of World,54.83,63.07,85.92,98.91,77.15,30.87
-,Bellingham, WA, United States,56.67,79.09,77.88,131.14,77.13,34.7
+,Bellingham, WA,Rest of World,56.67,79.09,77.88,131.14,77.13,34.7
 ,Newcastle, Australia,Rest of World,60.88,76.5,84.01,134.62,77.12,43.45
-,Melbourne, FL, United States,54.08,85.53,77.04,128.34,77.09,29.38
-,San Diego, CA, United States,69.73,75.09,82.09,142.72,77.01,61.91
+,Melbourne, FL,Rest of World,54.08,85.53,77.04,128.34,77.09,29.38
+,San Diego, CA,Rest of World,69.73,75.09,82.09,142.72,77.01,61.91
 ,Mannheim, Germany,Rest of World,52.99,61.07,73.5,156.77,76.97,27.25
 ,Groningen, Netherlands,Rest of World,54.59,66.99,87.82,105.46,76.64,30.91
-,New Orleans, LA, United States,59.07,75.15,84,116.56,76.64,40.21
-,Orlando, FL, United States,57.68,82.77,69.38,129.02,76.63,37.35
-,Baltimore, MD, United States,61.36,73.92,80.16,116.79,76.57,45.03
-,Tampa, FL, United States,59.92,80.64,80.21,144.43,76.53,42.09
-,West Palm Beach, FL, United States,60.41,79.59,78.92,124.36,76.52,43.11
+,New Orleans, LA,Rest of World,59.07,75.15,84,116.56,76.64,40.21
+,Orlando, FL,Rest of World,57.68,82.77,69.38,129.02,76.63,37.35
+,Baltimore, MD,Rest of World,61.36,73.92,80.16,116.79,76.57,45.03
+,Tampa, FL,Rest of World,59.92,80.64,80.21,144.43,76.53,42.09
+,West Palm Beach, FL,Rest of World,60.41,79.59,78.92,124.36,76.52,43.11
 ,Calgary, Canada,Rest of World,54.7,72.97,75.23,146.39,76.44,31.37
 ,Brighton, United Kingdom,Rest of World,61.21,58.61,86.71,83.51,76.4,44.89
 ,Red Deer, Canada,Rest of World,51.73,69.85,74.21,136.55,76.15,25.51
@@ -169,121 +169,121 @@ Rank,City,CountryCounty,Country,Cost of Living Plus Rent Index,Groceries Index,R
 ,Coventry, United Kingdom,Rest of World,51.96,64.04,71.27,133.86,75.72,26.45
 ,Vancouver, Canada,Rest of World,64.94,78.26,70.12,96.77,75.59,53.5
 ,Victoria, Canada,Rest of World,58.36,79.13,70.56,112.52,75.47,40
-,Colorado Springs, CO, United States,54.1,72.93,76.48,150.89,75.42,31.21
+,Colorado Springs, CO,Rest of World,54.1,72.93,76.48,150.89,75.42,31.21
 ,Norwich, United Kingdom,Rest of World,51.26,58.53,81.1,89.95,75.4,25.34
-,Charlotte, NC, United States,58.6,79.4,73.87,112.72,75.35,40.62
-,Plano, TX, United States,58.3,73.93,63.49,101.69,75.32,40.02
+,Charlotte, NC,Rest of World,58.6,79.4,73.87,112.72,75.35,40.62
+,Plano, TX,Rest of World,58.3,73.93,63.49,101.69,75.32,40.02
 ,Toronto, Canada,Rest of World,61.58,70.65,71.58,106.83,75.22,46.94
-,Atlanta, GA, United States,60.92,75,74.81,153.77,74.97,45.83
+,Atlanta, GA,Rest of World,60.92,75,74.81,153.77,74.97,45.83
 ,Turin, Italy,Rest of World,50.01,61.62,76.26,85.62,74.94,23.25
 ,Leeds, United Kingdom,Rest of World,53.41,61.69,91.99,109.59,74.92,30.31
-,Fayetteville, AR, United States,50.76,81.39,69.15,104.92,74.9,24.85
+,Fayetteville, AR,Rest of World,50.76,81.39,69.15,104.92,74.9,24.85
 ,Gold Coast, Australia,Rest of World,57.46,74.88,72.35,124.98,74.89,38.76
 ,Kelowna, Canada,Rest of World,55.52,77.54,68.9,109.75,74.78,34.84
-,Indianapolis, IN, United States,55.89,73.92,74.26,94.22,74.72,35.67
-,Birmingham, AL, United States,53.77,76.12,74.13,134.55,74.64,31.36
+,Indianapolis, IN,Rest of World,55.89,73.92,74.26,94.22,74.72,35.67
+,Birmingham, AL,Rest of World,53.77,76.12,74.13,134.55,74.64,31.36
 ,Stuttgart, Germany,Rest of World,55.4,55.57,72.07,134.02,74.53,34.86
 ,Berlin, Germany,Rest of World,54.65,60.74,65.57,114.09,74.32,33.54
 ,Burlington, Canada,Rest of World,54.97,68.68,82.63,137.47,74.32,34.2
 ,Sheffield, United Kingdom,Rest of World,50.55,56.87,84.47,110.96,74.31,25.05
 ,Glasgow, United Kingdom,Rest of World,52.03,61.85,79.52,124.11,74.3,28.12
-,Augusta, GA, United States,49.29,82.42,62.66,100.38,74.29,22.45
-,Greensboro, NC, United States,50.93,80.28,62.04,141.87,74.1,26.05
-,Greenville, SC, United States,55.73,83.74,67.18,127.49,74.08,36.03
+,Augusta, GA,Rest of World,49.29,82.42,62.66,100.38,74.29,22.45
+,Greensboro, NC,Rest of World,50.93,80.28,62.04,141.87,74.1,26.05
+,Greenville, SC,Rest of World,55.73,83.74,67.18,127.49,74.08,36.03
 ,Palma De Mallorca, Spain,Rest of World,50.12,62.9,71.61,80.26,74.08,24.4
 ,Cologne, Germany,Rest of World,52.67,55.97,73.95,131.06,74.02,29.75
 ,Bonn, Germany,Rest of World,52.21,55,70.68,118.12,73.61,29.24
-,Jacksonville, FL, United States,53.66,77.14,73.25,117.13,73.58,32.27
-,Fort Collins, CO, United States,58.38,81.45,61.31,73.23,73.57,42.07
-,Cleveland, OH, United States,51.71,67.52,74.7,146.27,73.47,28.35
+,Jacksonville, FL,Rest of World,53.66,77.14,73.25,117.13,73.58,32.27
+,Fort Collins, CO,Rest of World,58.38,81.45,61.31,73.23,73.57,42.07
+,Cleveland, OH,Rest of World,51.71,67.52,74.7,146.27,73.47,28.35
 ,Bremen, Germany,Rest of World,48.72,59.15,70.25,131.14,73.41,22.22
-,Milwaukee, WI, United States,55.11,71.9,71.59,139.23,73.37,35.5
+,Milwaukee, WI,Rest of World,55.11,71.9,71.59,139.23,73.37,35.5
 ,Bilbao, Spain,Rest of World,52.55,65.27,75.33,92.96,73.3,30.28
-,Saint Petersburg, FL, United States,57.72,72.82,75.33,145.31,73.29,41.01
+,Saint Petersburg, FL,Rest of World,57.72,72.82,75.33,145.31,73.29,41.01
 ,Exeter, United Kingdom,Rest of World,53.24,58.28,82.78,86.66,73.17,31.86
-,Memphis, TN, United States,51.04,73.96,70.71,154.91,72.95,27.52
+,Memphis, TN,Rest of World,51.04,73.96,70.71,154.91,72.95,27.52
 ,Guelph, Canada,Rest of World,51.68,68.86,80.08,114.41,72.93,28.86
-,Syracuse, NY, United States,52.57,72.26,67.76,103.63,72.88,30.77
+,Syracuse, NY,Rest of World,52.57,72.26,67.76,103.63,72.88,30.77
 ,Waterloo, Canada,Rest of World,52.01,70.36,70.2,120.38,72.86,29.64
 ,Regina, Canada,Rest of World,51.67,73.25,66.3,109.12,72.85,28.93
-,Newark, NJ, United States,57.07,66.47,77.87,94.1,72.68,40.31
-,Akron, OH, United States,48.02,77.33,63.79,99.21,72.65,21.57
-,Dubai, United Arab Emirates,,69.83,61.71,67.23,123.71,72.58,66.88
+,Newark, NJ,Rest of World,57.07,66.47,77.87,94.1,72.68,40.31
+,Akron, OH,Rest of World,48.02,77.33,63.79,99.21,72.65,21.57
+,Dubai, United Arab Emirates,Rest of World,69.83,61.71,67.23,123.71,72.58,66.88
 ,Nuremberg, Germany,Rest of World,49.67,55.83,71.58,127.52,72.57,25.08
 ,Mississauga, Canada,Rest of World,55.23,68.46,67.15,106.67,72.54,36.65
-,Austin, TX, United States,61.53,73.02,75.56,140.39,72.46,49.8
+,Austin, TX,Rest of World,61.53,73.02,75.56,140.39,72.46,49.8
 ,Leipzig, Germany,Rest of World,47.22,54.51,64.82,91.69,72.4,20.19
 ,Taipei, Taiwan,Rest of World,47.9,87.57,34.77,104.9,72.39,21.61
-,Fresno, CA, United States,52.38,72.51,75.89,110.71,72.36,30.94
-,Buffalo, NY, United States,51.31,69.14,72.72,120.23,72.15,28.94
-,Shreveport, LA, United States,49.48,78.42,64.04,76.03,72.07,25.24
+,Fresno, CA,Rest of World,52.38,72.51,75.89,110.71,72.36,30.94
+,Buffalo, NY,Rest of World,51.31,69.14,72.72,120.23,72.15,28.94
+,Shreveport, LA,Rest of World,49.48,78.42,64.04,76.03,72.07,25.24
 ,Windsor, Canada,Rest of World,47.59,63.4,67.16,118.85,72,21.38
 ,Nanaimo, BC,Rest of World,49.33,78.03,63.87,99.07,71.9,25.11
-,Nashville, TN, United States,60.23,74.28,69.38,125.4,71.88,47.73
+,Nashville, TN,Rest of World,60.23,74.28,69.38,125.4,71.88,47.73
 ,Aachen, Germany,Rest of World,48.99,57.78,64.67,128.79,71.81,24.48
 ,Moncton, Canada,Rest of World,46.15,70.92,66.98,88.06,71.79,18.63
 ,Birmingham, United Kingdom,Rest of World,51.33,57.06,79.83,106.25,71.6,29.57
 ,Cardiff, United Kingdom,Rest of World,50.69,65.68,72.66,109.78,71.52,28.32
 ,Southampton, United Kingdom,Rest of World,52.97,58.97,76,116.26,71.48,33.09
-,Manchester, NH, United States,53.2,76.26,72.86,124.75,71.46,33.61
-,Raleigh, NC, United States,55.02,78.32,70.58,131.99,71.4,37.42
-,Little Rock, AR, United States,48.89,77.24,64.98,132.31,71.29,24.83
+,Manchester, NH,Rest of World,53.2,76.26,72.86,124.75,71.46,33.61
+,Raleigh, NC,Rest of World,55.02,78.32,70.58,131.99,71.4,37.42
+,Little Rock, AR,Rest of World,48.89,77.24,64.98,132.31,71.29,24.83
 ,Dresden, Germany,Rest of World,47.94,56.07,59.77,105.93,71.22,22.95
 ,Winnipeg, Canada,Rest of World,48.89,69.49,67.33,114.61,71.22,24.91
 ,Quebec City, Canada,Rest of World,45.53,71.69,65.29,118.31,71.21,17.97
 ,Naples, Italy,Rest of World,46.41,66.45,63.1,59.99,71.14,19.85
-,Richmond, VA, United States,54.2,77.66,65.74,133.08,70.98,36.18
-,Las Vegas, NV, United States,51.2,66.54,74.53,148.81,70.97,29.98
-,Saint Louis, MO, United States,51.15,71.33,68.14,144.7,70.76,30.11
-,Grand Rapids, MI, United States,52.43,69.69,70.77,143.87,70.58,32.95
-,Rochester, NY, United States,51.13,72.96,74.66,158.71,70.52,30.31
-,Houston, TX, United States,57.7,71.01,71.15,145.38,70.37,44.1
-,Detroit, MI, United States,53.45,67.02,59.3,131.62,70.2,35.48
-,Darmstadt, Germany, United States,51.13,53.91,66.6,145.86,70.17,30.69
-,Ann Arbor, MI, United States,58.07,69.31,62.97,163.57,70.01,45.26
-,Ottawa, Canada, United States,51.51,64.16,71.95,145.32,69.91,31.76
-,Harrisburg, PA, United States,49.59,72.58,66.41,140.56,69.91,27.78
-,Newcastle Upon Tyne, United Kingdom, United States,48.58,54.05,78.46,127.4,69.91,25.69
-,Salem, OR, United States,51.58,70.61,68.39,106.58,69.81,32
-,Dayton, OH, United States,46.71,73.53,62.38,114.2,69.76,21.96
-,Barcelona, Spain, United States,52.37,59.29,65.07,77.27,69.75,33.71
-,Columbia, SC, United States,50.3,75.37,65.65,92.47,69.7,29.48
-,Marseille, France, United States,47.6,61.91,69.58,104.22,69.66,23.92
-,Liverpool, United Kingdom, United States,48.04,52.24,78.55,116.18,69.53,24.96
-,Hanover, Germany, United States,46.59,58.88,64.04,160.86,69.47,22.04
-,Fort Wayne, IN, United States,46.28,74.49,69.24,129.87,69.42,21.43
-,London, Canada, United States,47.78,65.97,66.17,105.79,69.39,24.58
-,Des Moines, IA, United States,50.97,73.45,63.64,125.85,69.37,31.23
-,Virginia Beach, VA, United States,53.94,68.92,71.08,151.73,69.33,37.42
-,Spokane, WA, United States,48.86,70.06,64.46,135.55,69.26,26.97
-,Bakersfield, CA, United States,49.86,71.91,64.38,120.54,69.2,29.09
-,Montreal, Canada, United States,48.69,68.65,67.17,120.29,69.18,26.68
-,Gatineau, Canada, United States,45.32,69.98,64.66,142.51,69.17,19.72
-,Columbus, OH, United States,52.92,66.96,62.16,125.47,69.13,35.51
-,Cincinnati, OH, United States,50.79,61.6,70.4,136.92,69.13,31.11
-,Kansas City, MO, United States,49.89,68.17,63.04,135.76,69.05,29.33
-,Belfast, United Kingdom, United States,47.04,61.07,79.19,103.27,68.77,23.7
-,San Juan, Puerto Rico, United States,48.18,66.18,57.67,116.19,68.77,26.09
-,Derby, United Kingdom, United States,45.92,58.52,71.55,110.83,68.68,21.48
-,Lincoln, NE, United States,49.21,71.56,62.02,124.13,68.61,28.38
-,Malta, Malta, United States,48.26,54.11,69,72.13,68.44,26.6
-,Fort Myers, FL, United States,50.62,71.88,62.43,86.87,68.06,31.9
-,Lexington, KY, United States,47.45,69.03,62.48,130.77,67.9,25.51
-,Fort Worth, TX, United States,52.12,66.57,65.5,142.22,67.81,35.29
-,Omaha, NE, United States,49.78,69.41,62.64,134.51,67.8,30.43
-,Vancouver, WA, United States,51.55,61.12,67.28,127.95,67.79,34.12
-,Madrid, Spain, United States,51.13,56.59,70.41,96.36,67.63,33.41
-,Surrey, Canada, United States,50.97,65.23,61.6,93.78,67.37,33.36
-,Montevideo, Uruguay, United States,44.97,54.33,70.89,35.71,67.18,21.14
-,Wichita, KS, United States,46.58,67.02,68.1,118.39,67.02,24.63
-,Lubbock, TX, United States,46.52,61.64,68.94,133.25,66.9,24.63
-,Chattanooga, TN, United States,48.02,67.8,62.68,145.27,66.89,27.77
-,Phoenix, AZ, United States,50.69,62.4,71.42,139.29,66.87,33.32
-,Sioux Falls, SD, United States,47,69.13,56.18,168.93,66.85,25.7
-,Salt Lake City, UT, United States,51.4,64.48,68.75,148.6,66.76,34.91
-,Tulsa, OK, United States,48.34,67.6,62.03,123.2,66.71,28.61
-,Durham, NC, United States,51.54,64.75,67.79,146.95,66.44,35.54
-,Springfield, MO, United States,43.44,73.6,63.28,77.68,66.4,18.79
+,Richmond, VA,Rest of World,54.2,77.66,65.74,133.08,70.98,36.18
+,Las Vegas, NV,Rest of World,51.2,66.54,74.53,148.81,70.97,29.98
+,Saint Louis, MO,Rest of World,51.15,71.33,68.14,144.7,70.76,30.11
+,Grand Rapids, MI,Rest of World,52.43,69.69,70.77,143.87,70.58,32.95
+,Rochester, NY,Rest of World,51.13,72.96,74.66,158.71,70.52,30.31
+,Houston, TX,Rest of World,57.7,71.01,71.15,145.38,70.37,44.1
+,Detroit, MI,Rest of World,53.45,67.02,59.3,131.62,70.2,35.48
+,Darmstadt, Germany,Rest of World,51.13,53.91,66.6,145.86,70.17,30.69
+,Ann Arbor, MI,Rest of World,58.07,69.31,62.97,163.57,70.01,45.26
+,Ottawa, Canada,Rest of World,51.51,64.16,71.95,145.32,69.91,31.76
+,Harrisburg, PA,Rest of World,49.59,72.58,66.41,140.56,69.91,27.78
+,Newcastle Upon Tyne, United Kingdom,Rest of World,48.58,54.05,78.46,127.4,69.91,25.69
+,Salem, OR,Rest of World,51.58,70.61,68.39,106.58,69.81,32
+,Dayton, OH,Rest of World,46.71,73.53,62.38,114.2,69.76,21.96
+,Barcelona, Spain,Rest of World,52.37,59.29,65.07,77.27,69.75,33.71
+,Columbia, SC,Rest of World,50.3,75.37,65.65,92.47,69.7,29.48
+,Marseille, France,Rest of World,47.6,61.91,69.58,104.22,69.66,23.92
+,Liverpool, United Kingdom,Rest of World,48.04,52.24,78.55,116.18,69.53,24.96
+,Hanover, Germany,Rest of World,46.59,58.88,64.04,160.86,69.47,22.04
+,Fort Wayne, IN,Rest of World,46.28,74.49,69.24,129.87,69.42,21.43
+,London, Canada,Rest of World,47.78,65.97,66.17,105.79,69.39,24.58
+,Des Moines, IA,Rest of World,50.97,73.45,63.64,125.85,69.37,31.23
+,Virginia Beach, VA,Rest of World,53.94,68.92,71.08,151.73,69.33,37.42
+,Spokane, WA,Rest of World,48.86,70.06,64.46,135.55,69.26,26.97
+,Bakersfield, CA,Rest of World,49.86,71.91,64.38,120.54,69.2,29.09
+,Montreal, Canada,Rest of World,48.69,68.65,67.17,120.29,69.18,26.68
+,Gatineau, Canada,Rest of World,45.32,69.98,64.66,142.51,69.17,19.72
+,Columbus, OH,Rest of World,52.92,66.96,62.16,125.47,69.13,35.51
+,Cincinnati, OH,Rest of World,50.79,61.6,70.4,136.92,69.13,31.11
+,Kansas City, MO,Rest of World,49.89,68.17,63.04,135.76,69.05,29.33
+,Belfast, United Kingdom,Rest of World,47.04,61.07,79.19,103.27,68.77,23.7
+,San Juan, Puerto Rico,Rest of World,48.18,66.18,57.67,116.19,68.77,26.09
+,Derby, United Kingdom,Rest of World,45.92,58.52,71.55,110.83,68.68,21.48
+,Lincoln, NE,Rest of World,49.21,71.56,62.02,124.13,68.61,28.38
+,Malta, Malta,Rest of World,48.26,54.11,69,72.13,68.44,26.6
+,Fort Myers, FL,Rest of World,50.62,71.88,62.43,86.87,68.06,31.9
+,Lexington, KY,Rest of World,47.45,69.03,62.48,130.77,67.9,25.51
+,Fort Worth, TX,Rest of World,52.12,66.57,65.5,142.22,67.81,35.29
+,Omaha, NE,Rest of World,49.78,69.41,62.64,134.51,67.8,30.43
+,Vancouver, WA,Rest of World,51.55,61.12,67.28,127.95,67.79,34.12
+,Madrid, Spain,Rest of World,51.13,56.59,70.41,96.36,67.63,33.41
+,Surrey, Canada,Rest of World,50.97,65.23,61.6,93.78,67.37,33.36
+,Montevideo, Uruguay,Rest of World,44.97,54.33,70.89,35.71,67.18,21.14
+,Wichita, KS,Rest of World,46.58,67.02,68.1,118.39,67.02,24.63
+,Lubbock, TX,Rest of World,46.52,61.64,68.94,133.25,66.9,24.63
+,Chattanooga, TN,Rest of World,48.02,67.8,62.68,145.27,66.89,27.77
+,Phoenix, AZ,Rest of World,50.69,62.4,71.42,139.29,66.87,33.32
+,Sioux Falls, SD,Rest of World,47,69.13,56.18,168.93,66.85,25.7
+,Salt Lake City, UT,Rest of World,51.4,64.48,68.75,148.6,66.76,34.91
+,Tulsa, OK,Rest of World,48.34,67.6,62.03,123.2,66.71,28.61
+,Durham, NC,Rest of World,51.54,64.75,67.79,146.95,66.44,35.54
+,Springfield, MO,Rest of World,43.44,73.6,63.28,77.68,66.4,18.79
 ,Winston-salem, NC,Rest of World,46.34,71.92,69.63,117.44,66.27,24.96
 ,Nicosia, Cyprus,Rest of World,42.59,53.67,78.46,90.59,66.23,17.22
 ,Doha, Qatar,Rest of World,66.46,57.95,65.81,120.86,66.12,66.84
