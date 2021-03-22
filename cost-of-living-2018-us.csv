@@ -89,7 +89,7 @@ Rank,City,CountryCounty,Country,Cost of Living Plus Rent Index,Groceries Index,R
 ,Dusseldorf, Germany,,60.23,65.69,74.97,114.5,82.48,36.34
 ,Los Angeles, CA, United States,75.77,82.73,82.48,109.01,82.3,68.75
 ,Boulder, CO, United States,68.5,86.22,74.92,143.02,82.19,53.8
-,St. John's, NL, Canada,53.39,86.39,79.73,98.06,82.18,22.48
+,St. John's, NL,,53.39,86.39,79.73,98.06,82.18,22.48
 ,Turku, Finland,,54.87,69.79,88.89,125.14,82.18,25.55
 ,Brisbane, Australia,,63.43,75.42,81.39,130.41,82.17,43.31
 ,Halifax, Canada,,56.61,88.57,75.91,95.7,82.03,29.33
@@ -218,7 +218,7 @@ Rank,City,CountryCounty,Country,Cost of Living Plus Rent Index,Groceries Index,R
 ,Buffalo, NY, United States,51.31,69.14,72.72,120.23,72.15,28.94
 ,Shreveport, LA, United States,49.48,78.42,64.04,76.03,72.07,25.24
 ,Windsor, Canada,,47.59,63.4,67.16,118.85,72,21.38
-,Nanaimo, BC, Canada,49.33,78.03,63.87,99.07,71.9,25.11
+,Nanaimo, BC,,49.33,78.03,63.87,99.07,71.9,25.11
 ,Nashville, TN, United States,60.23,74.28,69.38,125.4,71.88,47.73
 ,Aachen, Germany,,48.99,57.78,64.67,128.79,71.81,24.48
 ,Moncton, Canada,,46.15,70.92,66.98,88.06,71.79,18.63
